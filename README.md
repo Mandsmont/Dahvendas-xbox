@@ -56,7 +56,8 @@ O objetivo é transformar dados brutos em informações visuais e estratégicas 
 - Organização de projeto para portfólio
 
 ---
-<img width="1331" height="735" alt="image" src="https://github.com/user-attachments/assets/0a280dbf-40b7-4d83-a1d9-4dda4747f030" />
+<img width="1317" height="682" alt="image" src="https://github.com/user-attachments/assets/3846f99b-d518-4f9f-b298-73b7a5816ec8" />
+
 
 ## 👩‍💻 Autora
 
